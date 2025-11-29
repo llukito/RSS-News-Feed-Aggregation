@@ -1,0 +1,8 @@
+/usr/bin/valgrind
+Program Ended prematurely!!!
+~~~~~TEST CHECK FAILED~~~~~
+
+Only part of tests run which from:
+
+------------------------------------
+ >>>>>>>>>>> 0/0 Tests Passed<<<<<<<<<<<<
